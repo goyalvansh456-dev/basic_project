@@ -1,0 +1,15 @@
+h1{
+    color:red;
+}
+h2{
+    color:red;
+}
+body{
+    background-color:whitesmoke;
+}
+input[type="text"] {
+  width: 300px;   /* increase width */
+  height: 40px;   /* increase height */
+  font-size: 18px; /* bigger text inside */
+  padding: 5px;   /* space inside box */
+}
